@@ -1,6 +1,4 @@
-# OS_Project
-Build Tiny Operating System
-
+# OS_Project 2
 
 Project2 is about multitasking.
 
